@@ -35,4 +35,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anik00223/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anik00223/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anik00223/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anik00223/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anik00223/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anik00223/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
