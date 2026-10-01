@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anik00223/Leetcode/tree/master/0020-valid-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/Anik00223/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anik00223/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Binary Tree
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anik00223/Leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anik00223/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anik00223/Leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anik00223/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Quicksort
 |  |
