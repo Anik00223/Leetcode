@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anik00223/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Anik00223/Leetcode/tree/master/0022-generate-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/Anik00223/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anik00223/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Binary Tree
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anik00223/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Anik00223/Leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anik00223/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Quicksort
 |  |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0891-sum-of-subsequence-widths](https://github.com/Anik00223/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0927-three-equal-parts](https://github.com/Anik00223/Leetcode/tree/master/0927-three-equal-parts) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Anik00223/Leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Anik00223/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
