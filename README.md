@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anik00223/Leetcode/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/Anik00223/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anik00223/Leetcode/tree/master/0057-insert-interval) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anik00223/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Anik00223/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Anik00223/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
