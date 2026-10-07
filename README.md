@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anik00223/Leetcode/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/Anik00223/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anik00223/Leetcode/tree/master/0057-insert-interval) |
+| [0169-majority-element](https://github.com/Anik00223/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anik00223/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Anik00223/Leetcode/tree/master/0283-move-zeroes) |
 | [0891-sum-of-subsequence-widths](https://github.com/Anik00223/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
@@ -82,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anik00223/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anik00223/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anik00223/Leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Anik00223/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anik00223/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0891-sum-of-subsequence-widths](https://github.com/Anik00223/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
 ## Quickselect
@@ -137,8 +140,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anik00223/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Anik00223/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Anik00223/Leetcode/tree/master/0283-move-zeroes) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anik00223/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anik00223/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
