@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Anik00223/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anik00223/Leetcode/tree/master/0057-insert-interval) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anik00223/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/Anik00223/Leetcode/tree/master/0283-move-zeroes) |
 | [0891-sum-of-subsequence-widths](https://github.com/Anik00223/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0927-three-equal-parts](https://github.com/Anik00223/Leetcode/tree/master/0927-three-equal-parts) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anik00223/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anik00223/Leetcode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Anik00223/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
