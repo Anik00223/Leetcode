@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/Anik00223/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0927-three-equal-parts](https://github.com/Anik00223/Leetcode/tree/master/0927-three-equal-parts) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anik00223/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anik00223/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anik00223/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anik00223/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anik00223/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anik00223/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anik00223/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0891-sum-of-subsequence-widths](https://github.com/Anik00223/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anik00223/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Anik00223/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anik00223/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anik00223/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anik00223/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anik00223/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Simulation
 |  |
 | ------- |
