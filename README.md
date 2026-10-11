@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anik00223/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Anik00223/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anik00223/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anik00223/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anik00223/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Anik00223/Leetcode/tree/master/0189-rotate-array) |
 | [0891-sum-of-subsequence-widths](https://github.com/Anik00223/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0927-three-equal-parts](https://github.com/Anik00223/Leetcode/tree/master/0927-three-equal-parts) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anik00223/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Anik00223/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Anik00223/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Anik00223/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Anik00223/Leetcode/tree/master/0205-isomorphic-strings) |
