@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anik00223/Leetcode/tree/master/0189-rotate-array) |
 | [0891-sum-of-subsequence-widths](https://github.com/Anik00223/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0927-three-equal-parts](https://github.com/Anik00223/Leetcode/tree/master/0927-three-equal-parts) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Anik00223/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anik00223/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anik00223/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anik00223/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Anik00223/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
 | ------- |
