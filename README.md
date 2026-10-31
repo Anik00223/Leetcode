@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Anik00223/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Anik00223/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Anik00223/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anik00223/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Anik00223/Leetcode/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/Anik00223/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Anik00223/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Anik00223/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Anik00223/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Anik00223/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anik00223/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Anik00223/Leetcode/tree/master/0567-permutation-in-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anik00223/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Two Pointers
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anik00223/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anik00223/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Anik00223/Leetcode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
