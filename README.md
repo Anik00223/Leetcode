@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Anik00223/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anik00223/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Anik00223/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/Anik00223/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anik00223/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Anik00223/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Anik00223/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Anik00223/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Anik00223/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Anik00223/Leetcode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Anik00223/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anik00223/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Anik00223/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anik00223/Leetcode/tree/master/0283-move-zeroes) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anik00223/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Anik00223/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Anik00223/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anik00223/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Anik00223/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Anik00223/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anik00223/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Sliding Window
 |  |
