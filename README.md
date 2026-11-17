@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anik00223/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anik00223/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/Anik00223/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Anik00223/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Anik00223/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Tree
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anik00223/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Anik00223/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anik00223/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Anik00223/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Backtracking
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anik00223/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anik00223/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Anik00223/Leetcode/tree/master/0567-permutation-in-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Anik00223/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Counting
 |  |
 | ------- |
