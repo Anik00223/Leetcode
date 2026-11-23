@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Anik00223/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anik00223/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anik00223/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/Anik00223/Leetcode/tree/master/0127-word-ladder) |
 | [1254-number-of-closed-islands](https://github.com/Anik00223/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anik00223/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph Theory
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anik00223/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Anik00223/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Anik00223/Leetcode/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/Anik00223/Leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Anik00223/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anik00223/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Anik00223/Leetcode/tree/master/0567-permutation-in-string) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Anik00223/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anik00223/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Anik00223/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Anik00223/Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Anik00223/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anik00223/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Anik00223/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -416,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Anik00223/Leetcode/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Anik00223/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
